@@ -28,19 +28,9 @@
       "title": "Speakers"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "title": "Schedule"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "title": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "title": "Blog"
     }
   ],
   "heroSettings": {
@@ -171,8 +161,8 @@
   },
   "mailto": "contact@gdgcebu.org",
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://gdgcebu.us18.list-manage.com/subscribe/post?u=f8b980dee44bec02fccf9da98&amp;id=d45a937828",
+    "name": "b_f8b980dee44bec02fccf9da98_d45a937828"
   },
   "signInProviders": {
     "providersData": [
