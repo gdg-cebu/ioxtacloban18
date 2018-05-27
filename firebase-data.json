@@ -820,178 +820,257 @@
   },
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photo" : "/images/people/oleh_zasadnyy.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+      "name" : "Shad Roi de la Cruz",
+      "photo" : "/images/people/shad_roi.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fshad_roi.jpg?alt=media&token=b4e3b476-b2fe-41f1-9598-547d06d67c34",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
+        "icon" : "github",
+        "link" : "https://github.com/shadroi",
+        "name" : "GitHub"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
+        "link" : "https://www.facebook.com/shadroi",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
+        "link" : "https://twitter.com/shadroi",
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
+        "link" : "https://shadroi.com",
         "name" : "Blog"
       } ],
-      "title" : "Website and sponsors"
+      "title" : "Community Manager"
     }, {
-      "name" : "Sofiya Huts",
-      "photo" : "/images/people/sofiya_huts.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+      "name" : "Frances Marie Teves",
+      "photo" : "/images/people/frances_teves.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Ffrances_teves.jpg?alt=media&token=fcc1c413-7b64-486c-9e17-b4363d143296",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
+        "link" : "https://www.facebook.com/FrancesMATeves",
         "name" : "Facebook"
       } ],
-      "title" : "Social and media"
+      "title" : "Communications Manager"
     }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photo" : "/images/people/vitaliy_zasadnyy.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
+      "name" : "Emelie Anggoy",
+      "photo" : "/images/people/emelie_anggoy.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Femelie_anggoy.jpg?alt=media&token=96407f03-b6d3-4137-ab30-a61b18eaf467",
       "socials" : [ {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
+        "link" : "https://www.linkedin.com/in/emelieanggoy",
         "name" : "Linkedin"
       }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
-        "name" : "Twitter"
+        "icon": "facebook",
+        "link": "https://www.facebook.com/emelaidiamond",
+        "name": "Facebook"
       }, {
         "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
+        "link" : "https://emelieempire.com",
         "name" : "Blog"
       } ],
-      "title" : "Speakers"
+      "title" : ""
     }, {
-      "name" : "Marta Maxymiak",
-      "photo" : "/images/people/marta_maxymiak.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
+      "name" : "Mark Danielle Robin",
+      "photo" : "/images/people/mark_robin.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fmark_robin.jpg?alt=media&token=1dc486f3-e7c9-42c6-8d19-59b1254480c0",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/104036874811391520583",
-        "name" : "Google+"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mdrobin95",
+        "name" : "Twitter"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/marta.maxymiak",
+        "link" : "https://www.facebook.com/markdrobin",
         "name" : "Facebook"
       } ],
-      "title" : "Party and happiness"
+      "title" : ""
     }, {
-      "name" : "Ostap Andrusiv",
-      "photo" : "/images/people/ostap_andrusiv.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
+      "name" : "Rhodchel Lhuven Marie Española",
+      "photo" : "/images/people/rhodchel_espanola.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Frhodchel_espanola.jpg?alt=media&token=5b6d8d13-d2f4-419f-93c6-21ee426b8301",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/rodchellhuven.espanola",
+        "name" : "Facebook"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Rome Nicolas",
+      "photo" : "/images/people/rome_nicolas.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Frome_nicolas.jpg?alt=media&token=4f68c088-ee6c-4a94-8712-4d62606545ae",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/zuprome",
+        "name" : "LinkedIn"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
+        "link" : "https://facebook.com/zuprome",
+        "name" : "Facebook"
+      }, {
+        "icon": "twitter",
+        "link": "https://twitter.com/zuprome",
+        "name": "Twitter"
+      }, {
+        "icon": "website",
+        "link": "https://bastabisaya.com",
+        "name": "Blog"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Francis Jigssy Galua",
+      "photo" : "/images/people/francis_galua.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Ffrancis_galua.jpg?alt=media&token=29ad4aff-efbf-4d0f-ae3e-93b4d194d628",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/francis-jigssy",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/francisjigssy.galua",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
+        "link" : "https://twitter.com/FrancisJigssyG",
         "name" : "Twitter"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Madel Faith Ilustrisimo",
+      "photo" : "/images/people/madel_ilustrisimo.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fmadel_ilustrisimo.jpg?alt=media&token=40e6d3f8-7ab0-4091-b8ff-d145e68562cf",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/madelfterd",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/madelfaith.ilustrisimo",
+        "name" : "Facebook"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Maurice Jitty Villaester",
+      "photo" : "/images/people/maurice_villaester.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fmaurice_villaester.jpg?alt=media&token=c36524e1-376e-4fa5-9c83-537cefb996c9",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://linkedin.com/in/mauricejitty",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twiter.com/mauricejitty",
+        "name" : "Twitter"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://facebook.com/mauricejitty",
+        "name" : "Facebook"
       }, {
         "icon" : "website",
-        "link" : "http://andrusiv.com/",
+        "link" : "http://mauricejitty.com",
         "name" : "Blog"
       } ],
-      "title" : "Sponsors"
+      "title" : ""
     }, {
-      "name" : "Vasylyna Mytsak",
-      "photo" : "/images/people/vasylyna_mytsak.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
+      "name" : "Ryan Viajedor",
+      "photo" : "/images/people/ryan_viajedor.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fryan_viajedor.jpg?alt=media&token=1303bca8-07b7-4306-b69f-f9b9e51a851f",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ryanviajedor/",
+        "name" : "LinkedIn"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
+        "link" : "https://www.facebook.com/ryan.viajedor",
         "name" : "Facebook"
-      } ],
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Volodya Karpliuk",
-      "photo" : "/images/people/volodya_karpliuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
       }, {
+        "icon" : "github",
+        "link" : "https://github.com/viajedorryan",
+        "name" : "GitHub"
+      } ]
+    }, {
+      "name" : "Kim Bismark",
+      "photo" : "/images/people/kim_bismark.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fkim_bismark.jpg?alt=media&token=2c24e922-df7e-40b3-b4a9-611479445568",
+      "socials" : [ {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
+        "link" : "https://www.facebook.com/kiemburleigh",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
+        "link" : "https://twitter.com/sinyura",
         "name" : "Twitter"
       } ],
-      "title" : "Speakers"
+      "title" : ""
     }, {
-      "name" : "Diana Pinchuk",
-      "photo" : "/images/people/diana_pinchuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
+      "name" : "Emmanuel Lodovice",
+      "photo" : "/images/people/emmanuel_lodovice.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/952939888843751424/8Hout5lg_400x400.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
+        "icon" : "github",
+        "link" : "https://github.com/nameanad",
+        "name" : "GitHub"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
+        "link" : "https://www.facebook.com/name.3.anad",
         "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/nameanad",
+        "name" : "Twitter"
       } ],
-      "title" : "Social and media"
+      "title" : ""
+    }, {
+      "name" : "Arnelle Balane",
+      "photo" : "/images/people/arnelle_balane.jpg",
+      "photoUrl" : "https://avatars0.githubusercontent.com/u/1428598?s=460&v=4",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/arnellebalane",
+        "name" : "GitHub"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/arnellebalane",
+        "name" : "Twitter"
+      }, {
+        "icon": "website",
+        "link": "https://arnellebalane.com",
+        "name": "Blog"
+      } ],
+      "title" : ""
     } ],
     "title" : "Core Team"
   }, {
     "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
+      "name" : "John Corky Hunter",
+      "photo" : "/images/people/john_corky.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fjohn_corky.jpg?alt=media&token=adb1e65a-a19b-4b55-b6cc-539f77ea72d4",
       "socials" : [ {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
+        "link" : "https://www.facebook.com/corpax",
         "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
       } ],
-      "title" : "Cloud stream"
+      "title" : ""
     }, {
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
+      "name" : "Kimberly Javier",
+      "photo" : "/images/people/kimberly_javier.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fkimberly_javier.jpg?alt=media&token=0aad51e8-43e1-45f1-95db-b14522668583",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/chemkimistry",
+        "name" : "Facebook"
       } ],
-      "title" : "Android Stream"
+      "title" : ""
+    }, {
+      "name" : "Michael Larrubis",
+      "photo" : "/images/people/michael_larrubis.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/team%2Fmichael_larrubis.jpg?alt=media&token=3dfacc4a-bef2-4801-a949-fccfbffe59ce",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/Iidiotflakes",
+        "name" : "Facebook"
+      } ],
+      "title" : ""
     } ],
-    "title" : "Program Committee"
+    "title" : "Creatives Team"
   } ],
   "tickets" : [ {
     "available" : true,
