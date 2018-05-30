@@ -78,11 +78,6 @@
           "name": "Media Kit",
           "url": "https://gdgcebu.org/",
           "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
