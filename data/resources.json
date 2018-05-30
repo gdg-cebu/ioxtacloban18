@@ -51,12 +51,12 @@
       "links": [
         {
           "name": "WTM 2018",
-          "url": "https://gdgcebu.org/",
+          "url": "https://wtm.gdgcebu.org/",
           "newTab": true
         },
         {
-          "name": "DevFest 2018",
-          "url": "https://gdgcebu.org/",
+          "name": "DevFest 2017",
+          "url": "https://gdgcebu-devfest17.firebaseapp.com/",
           "newTab": true
         }
       ]
