@@ -695,7 +695,7 @@
         "link" : "https://developers.google.com/experts/people/jirawat-karanwittayakarn",
         "name" : "gde"
       } ],
-      "bio" : "I am a Google Developer Expert for Firebase and I work for LINE Thailand.",
+      "bio" : "I am an Android developer with over 6 years of experience. I currently work at LINE Thailand, as a Technology Evangelist. Since discovering Firebase, I have spent most of my time learning about Firebase.<br><br>I live in Bangkok, Thailand where I am actively involved in the local Firebase community such as speaking at conferences, writing blog posts and creating code samples all over Thailand. I also founded the largest Thailand Firebase developer group with over 7,000 members.<br><br>My passion is to help developers learn and adopt new mobile development methodologies and frameworks like Firebase.<br><br>While I am not developing, I like to spend time with my wife and child.",
       "company" : "LINE Thailand",
       "companyLogo" : "",
       "companyLogoUrl" : "",
@@ -704,7 +704,7 @@
       "name" : "Jirawat Karanwittayakarn",
       "photo" : "/images/people/jirawat_karanwittayakarn.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Fjirawat_karanwittakarn.jpg?alt=media&token=280133f1-9be4-4ff6-b9b7-dffca63bfd2b",
-      "shortBio" : "I am a Google Developer Expert for Firebase and I work for LINE Thailand.",
+      "shortBio" : "I am an Android developer with over 6 years of experience. I currently work at LINE Thailand, as a Technology Evangelist.",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/+JirawatKaranwittayakarn",
