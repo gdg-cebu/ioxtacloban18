@@ -776,6 +776,130 @@
         "name" : "GitHub"
       } ],
       "title" : "Fullstack Developer"
+    },
+    "albert_padin" : {
+      "badges" : [ {
+        "description" : "Cloud Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/jose-albert-padin",
+        "name" : "gde"
+      } ],
+      "bio" : "Albert is a developer and entrepreneur who's worked on consumer, enterprise, and government software products. He is the co-founder and CTO of Symph, a design, development, and startup studio. At Symph, he has architected and developed solutions for 500 Startups, Office of the President of the Philippines, and the World Bank.<br><br>Albert leads a diverse team of developers in creating software solutions. He ensures that the team's output is high quality and performs well at scale. Albert is also passionate about empowering startups and has been involved in the Philippine Startup Ecosystem, by facilitating and mentoring at Startup Weekends and other events.<br><br>Prior to that, Albert started SpellDial, directed plays, and mentored street children. He studied Information Technology at the Centre for International Education Global Colleges. He lives in Cebu City, Philippines with his wife. His interests include theatre, performing arts, and the non-trivial act of eradicating poverty.",
+      "company" : "Symph",
+      "companyLogo" : "/images/gdg-cebu.png",
+      "companyLogoUrl" : "/images/gdg-cebu.png",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Albert Padin",
+      "photo" : "/images/people/albert_padin.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Falbert_padin.jpg?alt=media&token=3dcd22e7-6052-4340-acf0-0df0e4c0ad55",
+      "shortBio" : "Albert is a developer and entrepreneur who's worked on consumer, enterprise, and government software products.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/albertpadin",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/albertpadin/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "website",
+        "link" : "http://albertpadin.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Co-Founder & CTO"
+    },
+    "tj_monserrat" : {
+      "badges" : [ {
+        "description" : "Web Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/toni-jan-keith-monserrat",
+        "name" : "gde"
+      } ],
+      "bio" : "TJ is a researcher who focuses on Human Computer Interaction field, working on research in Pedagogy and Technology in Interactive Platforms on Learning. He volunteers his time and expertise to various organizations such as Google Developer Group Philippines, User Experience Philippines, Philippine Web Designers Organization, and ACM Special Interest Group on Computer-Human Interaction. He loves to experiment with creating smaller sized, offline-ready web apps using web components. His love for performance as part of design makes hom love his mission to help others do performant-ready webapps and bake into them performance-ready patterns into their design toolset.",
+      "company" : "UPLB",
+      "companyLogo" : "/images/gdg-cebu.png",
+      "companyLogoUrl" : "/images/gdg-cebu.png",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Toni-Jan Keith Monserrat",
+      "photo" : "/images/people/tj_monserrat.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Ftj_monserrat.jpg?alt=media&token=23d8b240-84da-4882-a471-86b61c7ef4e0",
+      "shortBio" : "TJ is a researcher who focuses on Human Computer Interaction field, working on research in Pedagogy and Technology in Interactive Platforms on Learning.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/tjmonsi",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/toni-jan-keith-monserrat-42975341/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/tjmonsi",
+        "name" : "GitHub"
+      } ],
+      "title" : "Assistant Professor"
+    },
+    "emmanuel_lodovice" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Cebu",
+        "link" : "https://gdgcebu.org/",
+        "name" : "gdg"
+      } ],
+      "bio" : "",
+      "company" : "ChannelFix",
+      "companyLogo" : "/images/gdg-cebu.png",
+      "companyLogoUrl" : "/images/gdg-cebu.png",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Emmanuel Lodovice",
+      "photo" : "/images/people/emmanuel_lodovice.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/952939888843751424/8Hout5lg_400x400.jpg",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/nameanad",
+        "name" : "GitHub"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/name.3.anad",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/nameanad",
+        "name" : "Twitter"
+      } ],
+      "title" : "Project Lead, Web Developer"
+    },
+    "arnelle_balane" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Cebu",
+        "link" : "https://gdgcebu.org/",
+        "name" : "gdg"
+      } ],
+      "bio" : "",
+      "company" : "ChannelFix",
+      "companyLogo" : "/images/gdg-cebu.png",
+      "companyLogoUrl" : "/images/gdg-cebu.png",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Arnelle Balane",
+      "photo" : "/images/people/arnelle_balane.jpg",
+      "photoUrl" : "https://avatars0.githubusercontent.com/u/1428598?s=460&v=4",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/arnellebalane",
+        "name" : "GitHub"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/nameanad",
+        "name" : "Twitter"
+      }, {
+        "icon": "website",
+        "link": "https://arnellebalane.com/",
+        "name": "Blog"
+      } ],
+      "title" : "Web Developer"
     }
   },
   "team" : [ {
