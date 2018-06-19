@@ -839,6 +839,28 @@
       } ],
       "title" : "Assistant Professor"
     },
+    "arth_lim_chiu" : {
+      "bio" : "",
+      "company" : "Symph",
+      "companyLogo" : "/images/gdg-cebu.png",
+      "companyLogoUrl" : "/images/gdg-cebu.png",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Arth Limchiu",
+      "photo" : "/images/people/arth_lim_chiu.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Farth_lim_chiu.jpg?alt=media&token=c9963d3e-285e-4013-a7a7-b0bf8dbcdabd",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/arthlimchiu/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/arthlimchiu",
+        "name" : "GitHub"
+      } ],
+      "title" : "Android Developer"
+    },
     "emmanuel_lodovice" : {
       "badges" : [ {
         "description" : "Google Developers Group Cebu",
@@ -997,6 +1019,24 @@
         "icon": "website",
         "link": "https://bastabisaya.com",
         "name": "Blog"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "Franchette Camoro",
+      "photo" : "/images/people/franchette_camoro.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Ffranchette_camoro.jpg?alt=media&token=fa2e735f-0084-4d4c-b01e-e1825d027a53",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/franchette_meow",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/franchette-camoro-95922799/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/nicoleCamoro",
+        "name" : "GitHub"
       } ],
       "title" : ""
     }, {
