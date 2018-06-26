@@ -1228,6 +1228,16 @@
     "soldOut" : false,
     "starts" : "Jun 1",
     "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
+  }, {
+    "available" : true,
+    "currency" : "₱",
+    "ends" : "Jun 30",
+    "name" : "Barkada 4+1 Promo",
+    "price" : 400,
+    "regular" : false,
+    "soldOut" : false,
+    "starts" : "Jun 1",
+    "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
   } ],
   "triggers" : {
     "images" : false
