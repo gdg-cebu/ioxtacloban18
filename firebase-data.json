@@ -1197,13 +1197,23 @@
     "title" : "Creatives Team"
   } ],
   "tickets" : [ {
-    "available" : true,
+    "available" : false,
     "currency" : "₱",
     "ends" : "Jul 21",
     "info": "First 100 tickets",
     "name" : "Early Bird Regular",
     "price" : 300,
     "regular": true,
+    "soldOut" : true,
+    "starts" : "Jun 1",
+    "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
+  }, {
+    "available" : true,
+    "currency" : "₱",
+    "ends" : "Jun 30",
+    "name" : "Barkada 4+1 Promo",
+    "price" : 400,
+    "regular" : false,
     "soldOut" : false,
     "starts" : "Jun 1",
     "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
@@ -1224,16 +1234,6 @@
     "ends" : "Jul 21",
     "name" : "Awesome VIP",
     "price" : 1000,
-    "regular" : false,
-    "soldOut" : false,
-    "starts" : "Jun 1",
-    "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
-  }, {
-    "available" : true,
-    "currency" : "₱",
-    "ends" : "Jun 30",
-    "name" : "Barkada 4+1 Promo",
-    "price" : 400,
     "regular" : false,
     "soldOut" : false,
     "starts" : "Jun 1",
