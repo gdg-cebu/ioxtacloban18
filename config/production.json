@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://ioxcebu18.firebaseapp.com/",
+  "url": "ioxtacloban18.firebaseapp.com",
   "analytics": "UA-82202527-9",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyCis7inogDQvHLHLCeQUaPNTQ2XxW5rePU",
-    "authDomain": "ioxcebu18.firebaseapp.com",
-    "databaseURL": "https://ioxcebu18.firebaseio.com",
-    "projectId": "ioxcebu18",
-    "storageBucket": "ioxcebu18.appspot.com",
-    "messagingSenderId": "800376658312"
+    "apiKey": "AIzaSyBNm6cEXVMrGjo62Xmaz_z3WyDcNR31yZg",
+    "authDomain": "ioxtacloban18.firebaseapp.com",
+    "databaseURL": "https://ioxtacloban18.firebaseio.com",
+    "projectId": "ioxtacloban18",
+    "storageBucket": "ioxtacloban18.appspot.com",
+    "messagingSenderId": "517918554146"
   },
   "googleMapApiKey": "AIzaSyCis7inogDQvHLHLCeQUaPNTQ2XxW5rePU"
 }

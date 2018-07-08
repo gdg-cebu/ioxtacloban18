@@ -1,5 +1,5 @@
 {
-  "title": "Google I/O Extended 2018 Cebu",
+  "title": "Google I/O Extended 2018 Tacloban",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, io, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
@@ -83,7 +83,7 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "Google I/O Extended 2018 Cebu brings together experts in Machine Learning, Android, Web and Cloud technologies to a day full of sessions, workshops and showcases.",
+        "description": "Google I/O Extended 2018 Tacloban brings together experts in Machine Learning, Android, Web and Cloud technologies to a day full of sessions, workshops and showcases.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
@@ -180,7 +180,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about Google I/O Extended 2018 Cebu sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about Google I/O Extended 2018 Tacloban sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -189,7 +189,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Cebu](https://gdgcebu.org/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Cebuano audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Cebu](https://gdgcebu.org/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Tacloban audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -222,7 +222,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://gdgcebu.org/' target='_blank'>GDG Cebu</a> is the proud organizer of Google I/O Extended 2018 Cebu",
+        "description": "<a href='https://gdgcebu.org/' target='_blank'>GDG Cebu</a> is the proud organizer of Google I/O Extended 2018 Tacloban",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
