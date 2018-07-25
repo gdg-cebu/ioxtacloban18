@@ -415,6 +415,29 @@
       } ],
       "title" : "Assistant Professor"
     },
+    "shad_roi" : {
+      "badges" : [ {
+        "description" : "Google Developers Group Cebu",
+        "link" : "https://gdgcebu.org/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Shad is the Community Manager of GDG Cebu and is the key person in organizing all of GDG Cebu’s events. He is also a marketing expert and also handles special operations at Symph.",
+      "company" : "Symph",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Philippines",
+      "featured" : true,
+      "name" : "Shad Roi de la Cruz",
+      "photo" : "/images/people/shad_roi.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Fshad_roi.jpg?alt=media&token=d6732af7-5c33-4e70-9ede-0a5ea431cca4",
+      "shortBio" : "Shad is the Community Manager of GDG Cebu and is the key person in organizing all of GDG Cebu’s events.",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/shadroi",
+        "name" : "GitHub"
+      } ],
+      "title" : "Community Manager of GDG Cebu"
+    },
     "emmanuel_lodovice" : {
       "badges" : [ {
         "description" : "Google Developers Group Cebu",
