@@ -94,9 +94,9 @@
   },
   "location": {
     "label": "Location",
-    "name": "Oakridge Pavilion",
-    "city": "Mandaue City",
-    "short": "Mandaue City, Cebu",
+    "name": "PSHS-EVC Auditorium",
+    "city": "Palo, Leyte",
+    "short": "Palo, Leyte",
     "address": "AS Fortuna St., Banilad, Mandaue City, Cebu",
     "pointer": {
       "latitude": 10.342389,
@@ -107,7 +107,7 @@
       "latitude": 10.342389,
       "longitude": 123.9170573
     },
-    "description": "A premier event venue in Cebu, the 1,200- square meter Pavilion opens a multitude of possibilities."
+    "description": "The Philippine Science High School Eastern Visayas Campus is one of the campuses of the Philippine Science High School System located at Pawing, Palo, Leyte."
   },
   "mediaQueries": {
     "xs": {
