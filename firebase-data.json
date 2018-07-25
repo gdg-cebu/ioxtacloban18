@@ -689,37 +689,6 @@
     }
   },
   "speakers" : {
-    "jirawat_karanwittayakarn" : {
-      "badges" : [ {
-        "description" : "Firebase Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/jirawat-karanwittayakarn",
-        "name" : "gde"
-      } ],
-      "bio" : "I am an Android developer with over 6 years of experience. I currently work at LINE Thailand, as a Technology Evangelist. Since discovering Firebase, I have spent most of my time learning about Firebase.<br><br>I live in Bangkok, Thailand where I am actively involved in the local Firebase community such as speaking at conferences, writing blog posts and creating code samples all over Thailand. I also founded the largest Thailand Firebase developer group with over 7,000 members.<br><br>My passion is to help developers learn and adopt new mobile development methodologies and frameworks like Firebase.<br><br>While I am not developing, I like to spend time with my wife and child.",
-      "company" : "LINE Thailand",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "Thailand",
-      "featured" : true,
-      "name" : "Jirawat Karanwittayakarn",
-      "photo" : "/images/people/jirawat_karanwittayakarn.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Fjirawat_karanwittakarn.jpg?alt=media&token=280133f1-9be4-4ff6-b9b7-dffca63bfd2b",
-      "shortBio" : "I am an Android developer with over 6 years of experience. I currently work at LINE Thailand, as a Technology Evangelist.",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+JirawatKaranwittayakarn",
-        "name" : "Google+"
-      }, {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/jirawatee/",
-        "name": "LinkedIn"
-      }, {
-        "icon": "twitter",
-        "link": "https://twitter.com/Jirawatee",
-        "name": "Twitter"
-      } ],
-      "title" : "Technology Evangelist"
-    },
     "john_paul_ada" : {
       "bio" : "I'm a software engineer working with JavaScript and PHP to build websites and mobile apps at GAPLabs. I play around with data science and machine learning on my free time.",
       "company" : "GAPLabs",
@@ -746,36 +715,36 @@
       } ],
       "title" : "Software Engineer"
     },
-    "franchette_camoro" : {
+    "ralph_regalado": {
       "badges" : [ {
-        "description" : "Google Developers Group Cebu",
-        "link" : "https://gdgcebu.org/",
-        "name" : "gdg"
+        "description" : "Machine Learning Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/ralph-vincent-regalado",
+        "name" : "gde"
       } ],
-      "bio" : "Fullstack Developer at Symph.",
-      "company" : "Symph",
-      "companyLogo" : "/images/gdg-cebu.png",
-      "companyLogoUrl" : "/images/gdg-cebu.png",
+      "bio" : "",
+      "company" : "SENTi TechLabs, Inc.",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
       "country" : "Philippines",
       "featured" : true,
-      "name" : "Franchette Camoro",
-      "photo" : "/images/people/franchette_camoro.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Ffranchette_camoro.jpg?alt=media&token=fa2e735f-0084-4d4c-b01e-e1825d027a53",
-      "shortBio" : "Fullstack Developer at Symph.",
+      "name" : "Ralph Vincent Regalado",
+      "photo" : "/images/people/ralph_regalado.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Fralph_regalado.jpg?alt=media&token=a72254d9-5bea-467f-a707-dc2184c79f7a",
+      "shortBio" : "",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/franchette_meow",
+        "link" : "https://twitter.com/regalandroid",
         "name" : "Twitter"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/franchette-camoro-95922799/",
+        "link" : "https://www.linkedin.com/in/rvregalado/",
         "name" : "LinkedIn"
       }, {
-        "icon" : "github",
-        "link" : "https://github.com/nicoleCamoro",
-        "name" : "GitHub"
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/112202610802878202127",
+        "name" : "Google+"
       } ],
-      "title" : "Fullstack Developer"
+      "title" : "Founder and CEO"
     },
     "albert_padin" : {
       "badges" : [ {
@@ -838,28 +807,6 @@
         "name" : "GitHub"
       } ],
       "title" : "Assistant Professor"
-    },
-    "arth_lim_chiu" : {
-      "bio" : "",
-      "company" : "Symph",
-      "companyLogo" : "/images/gdg-cebu.png",
-      "companyLogoUrl" : "/images/gdg-cebu.png",
-      "country" : "Philippines",
-      "featured" : true,
-      "name" : "Arth Limchiu",
-      "photo" : "/images/people/arth_lim_chiu.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/ioxcebu18-dev.appspot.com/o/speakers%2Farth_lim_chiu.jpg?alt=media&token=c9963d3e-285e-4013-a7a7-b0bf8dbcdabd",
-      "shortBio" : "",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/arthlimchiu/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/arthlimchiu",
-        "name" : "GitHub"
-      } ],
-      "title" : "Android Developer"
     },
     "emmanuel_lodovice" : {
       "badges" : [ {
