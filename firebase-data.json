@@ -221,6 +221,9 @@
           "items" : [ 112 ]
         } ],
         "startTime" : "18:30"
+      } ],
+      "tracks" : [ {
+        "title" : "Auditorium"
       } ]
     }
   },
