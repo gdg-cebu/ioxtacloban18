@@ -1153,7 +1153,7 @@
     "regular": true,
     "soldOut" : true,
     "starts" : "Jun 1",
-    "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
+    "url" : "https://www.eventbrite.com/e/google-io-extended-leyte-2018-tickets-47639948368"
   }, {
     "available" : true,
     "currency" : "₱",
@@ -1163,7 +1163,7 @@
     "regular" : false,
     "soldOut" : false,
     "starts" : "Jun 1",
-    "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
+    "url" : "https://www.eventbrite.com/e/google-io-extended-leyte-2018-tickets-47639948368"
   }, {
     "available" : true,
     "currency" : "₱",
@@ -1174,7 +1174,7 @@
     "soldOut" : false,
     "primary": true,
     "starts" : "Jun 1",
-    "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
+    "url" : "https://www.eventbrite.com/e/google-io-extended-leyte-2018-tickets-47639948368"
   }, {
     "available" : true,
     "currency" : "₱",
@@ -1184,7 +1184,7 @@
     "regular" : false,
     "soldOut" : false,
     "starts" : "Jun 1",
-    "url" : "https://www.eventbrite.com/e/google-io-extended-cebu-2018-tickets-46325889984"
+    "url" : "https://www.eventbrite.com/e/google-io-extended-leyte-2018-tickets-47639948368"
   } ],
   "triggers" : {
     "images" : false
